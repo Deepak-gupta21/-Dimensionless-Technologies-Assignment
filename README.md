@@ -53,8 +53,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-![Screenshot-1](screenshots/screenshot-1.png)
-![Screenshot-2](screenshots/screenshot-2.png)
+![Screenshot-1](Screenshot-1.png)
+![Screenshot-2](Screenshot-2.png)
 
 ### Making a Progressive Web App
 
